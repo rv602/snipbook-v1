@@ -16,7 +16,7 @@
     "next": "12.1.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "swr": "^0.4.1"
+    "swr": "^0.5.7"
   },
   "devDependencies": {
     "prisma": "4.3.1",
